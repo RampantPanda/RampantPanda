@@ -3,7 +3,7 @@
     <title>Rampant Panda</title>
     <link href="https://rampantpanda.github.io/RampantPanda/feed.xml" rel="self" />
     <link href="https://rampantpanda.github.io/RampantPanda" />
-    <updated>2024-02-18T18:20:42+02:00</updated>
+    <updated>2024-02-18T18:25:41+02:00</updated>
     <author>
         <name>Rampant Panda</name>
     </author>
@@ -465,16 +465,19 @@
         </author>
         <link href="https://rampantpanda.github.io/RampantPanda/people-with-dogs.html"/>
         <id>https://rampantpanda.github.io/RampantPanda/people-with-dogs.html</id>
+        <media:content url="https://rampantpanda.github.io/RampantPanda/media/posts/2/2022-02-23-09-23-00932_resize.jpg" medium="image" />
             <category term="Other"/>
 
-        <updated>2024-02-18T11:01:47+02:00</updated>
+        <updated>2024-02-18T18:25:41+02:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://rampantpanda.github.io/RampantPanda/media/posts/2/2022-02-23-09-23-00932_resize.jpg" alt="" />
                     Turku 2015 Turku 2017 Turku 2017 Turku 2021 Turku 2021 Turku 2021 Turku 2021 Turku 2022 Turku 2022 Turku 2022 Turku 2022
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://rampantpanda.github.io/RampantPanda/media/posts/2/2022-02-23-09-23-00932_resize.jpg" class="type:primaryImage" alt="" /></p>
                 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
 <figure class="gallery__item"><a href="https://rampantpanda.github.io/RampantPanda/media/posts/2/gallery/2016-05-01-13-52-01109.jpg" data-size="2000x1500"><img loading="lazy" src="https://rampantpanda.github.io/RampantPanda/media/posts/2/gallery/2016-05-01-13-52-01109-thumbnail.jpg" alt="" width="480" height="360"></a>
 <figcaption>Turku 2015</figcaption>
