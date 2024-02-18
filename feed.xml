@@ -3,7 +3,7 @@
     <title>Rampant Panda</title>
     <link href="https://rampantpanda.github.io/RampantPanda/feed.xml" rel="self" />
     <link href="https://rampantpanda.github.io/RampantPanda" />
-    <updated>2024-02-18T14:08:10+02:00</updated>
+    <updated>2024-02-18T18:20:42+02:00</updated>
     <author>
         <name>Rampant Panda</name>
     </author>
@@ -17,8 +17,9 @@
         <link href="https://rampantpanda.github.io/RampantPanda/no-people-dogs-or-bikes.html"/>
         <id>https://rampantpanda.github.io/RampantPanda/no-people-dogs-or-bikes.html</id>
         <media:content url="https://rampantpanda.github.io/RampantPanda/media/posts/10/2015-09-27-20-45-01148_resize.jpg" medium="image" />
+            <category term="Other"/>
 
-        <updated>2024-02-18T14:08:10+02:00</updated>
+        <updated>2024-02-18T14:28:47+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -147,49 +148,25 @@
         </content>
     </entry>
     <entry>
-        <title>No people, bikes or dogs</title>
-        <author>
-            <name>Rampant Panda</name>
-        </author>
-        <link href="https://rampantpanda.github.io/RampantPanda/no-people-bikes-or-dogs.html"/>
-        <id>https://rampantpanda.github.io/RampantPanda/no-people-bikes-or-dogs.html</id>
-            <category term="Other"/>
-
-        <updated>2024-02-18T11:01:08+02:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                
-  <div  class="gallery-wrapper">
-    <div class="gallery" data-columns="3">
-      <figure class="gallery__item">
-      <a href="https://rampantpanda.github.io/RampantPanda/media/posts/6/gallery/2015-09-27-20-45-01148.jpg" data-size="3873x1930">
-        <img loading="lazy" src="https://rampantpanda.github.io/RampantPanda/media/posts/6/gallery/2015-09-27-20-45-01148-thumbnail.jpg" height="239" width="480" alt="" >
-      </a>
-      
-    </figure>
-    </div>
-  </div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
         <title>Dogs without people or bikes</title>
         <author>
             <name>Rampant Panda</name>
         </author>
         <link href="https://rampantpanda.github.io/RampantPanda/dogs-without-people-or-bikes.html"/>
         <id>https://rampantpanda.github.io/RampantPanda/dogs-without-people-or-bikes.html</id>
+        <media:content url="https://rampantpanda.github.io/RampantPanda/media/posts/5/2022-03-28-16-32-00012_resize.jpg" medium="image" />
             <category term="Other"/>
 
-        <updated>2024-02-18T11:01:14+02:00</updated>
+        <updated>2024-02-18T14:28:17+02:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://rampantpanda.github.io/RampantPanda/media/posts/5/2022-03-28-16-32-00012_resize.jpg" alt="" />
                     2022 2022 2022 2022 2022 2022 2018 2022
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://rampantpanda.github.io/RampantPanda/media/posts/5/2022-03-28-16-32-00012_resize.jpg" class="type:primaryImage" alt="" /></p>
                 
   <div  class="gallery-wrapper">
     <div class="gallery" data-columns="3">
@@ -246,16 +223,19 @@
         </author>
         <link href="https://rampantpanda.github.io/RampantPanda/people-doing-music.html"/>
         <id>https://rampantpanda.github.io/RampantPanda/people-doing-music.html</id>
+        <media:content url="https://rampantpanda.github.io/RampantPanda/media/posts/4/2022-03-04-22-41-01023_resize.jpg" medium="image" />
             <category term="Other"/>
 
-        <updated>2024-02-18T11:01:23+02:00</updated>
+        <updated>2024-02-18T14:35:11+02:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://rampantpanda.github.io/RampantPanda/media/posts/4/2022-03-04-22-41-01023_resize.jpg" alt="" />
                     Foxpilot 2022 Alchemaster's Apprentice 2022 Alchemaster's Apprentice 2022 Alchemaster's Apprentice 2022 Alchemaster's Apprentice 2022 Alchemaster's Apprentice 2022 Alchemaster's Apprentice 2022 Foxpilot 2022 Foxpilot 2022 Foxpilot&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://rampantpanda.github.io/RampantPanda/media/posts/4/2022-03-04-22-41-01023_resize.jpg" class="type:primaryImage" alt="" /></p>
                 
   <div  class="gallery-wrapper">
     <div class="gallery" data-columns="3">
@@ -367,91 +347,34 @@
         </author>
         <link href="https://rampantpanda.github.io/RampantPanda/people-without-bikes-or-dogs.html"/>
         <id>https://rampantpanda.github.io/RampantPanda/people-without-bikes-or-dogs.html</id>
+        <media:content url="https://rampantpanda.github.io/RampantPanda/media/posts/3/2023-03-18-11-27-05-00212_resize.jpg" medium="image" />
             <category term="Other"/>
 
-        <updated>2024-02-18T11:01:37+02:00</updated>
+        <updated>2024-02-18T14:56:19+02:00</updated>
             <summary>
                 <![CDATA[
-                    Turku 2015 Copenhagen 2015 Copenhagen 2015 Turku 2015 Hyderabad 2016 Hyderabad 2016 Turku 2016 Turku 2016 Turku 2016 Turku 2016 Turku 2016 Turku 2016 Turku&hellip;
+                        <img src="https://rampantpanda.github.io/RampantPanda/media/posts/3/2023-03-18-11-27-05-00212_resize.jpg" alt="" />
+                    Turku 2015 Turku 2016 Turku 2016 Turku 2016 Hyderabad 2017 Turku 2021 Turku 2021 Turku 2021 Turku 2021 Helsinki 2021 Helsinki 2021 Tokyo 2019 Tokyo&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://rampantpanda.github.io/RampantPanda/media/posts/3/2023-03-18-11-27-05-00212_resize.jpg" class="type:primaryImage" alt="" /></p>
                 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
 <figure class="gallery__item"><a href="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2015-11-29-15-39-01161.jpg" data-size="2000x2000"><img loading="lazy" src="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2015-11-29-15-39-01161-thumbnail.jpg" alt="" width="480" height="480"></a>
 <figcaption>Turku 2015</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2015-12-14-19-38-01174.jpg" data-size="2000x1500"><img loading="lazy" src="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2015-12-14-19-38-01174-thumbnail.jpg" alt="" width="480" height="360"></a>
-<figcaption>Copenhagen 2015</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2015-12-15-19-44-01045.jpg" data-size="2000x1500"><img loading="lazy" src="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2015-12-15-19-44-01045-thumbnail.jpg" alt="" width="480" height="360"></a>
-<figcaption>Copenhagen 2015</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2015-12-29-17-59-01179.jpg" data-size="2000x1125"><img loading="lazy" src="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2015-12-29-17-59-01179-thumbnail.jpg" alt="" width="480" height="270"></a>
-<figcaption>Turku 2015</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2016-04-13-06-05-01092.jpg" data-size="1500x2000"><img loading="lazy" src="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2016-04-13-06-05-01092-thumbnail.jpg" alt="" width="480" height="640"></a>
-<figcaption>Hyderabad 2016</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2016-04-13-20-16-01100.jpg" data-size="2000x1500"><img loading="lazy" src="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2016-04-13-20-16-01100-thumbnail.jpg" alt="" width="480" height="360"></a>
-<figcaption>Hyderabad 2016</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2016-04-16-16-01-01102.jpg" data-size="1500x2000"><img loading="lazy" src="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2016-04-16-16-01-01102-thumbnail.jpg" alt="" width="480" height="640"></a>
-<figcaption>Turku 2016</figcaption>
-</figure>
 <figure class="gallery__item"><a href="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2016-05-01-12-36-01106.jpg" data-size="1500x2000"><img loading="lazy" src="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2016-05-01-12-36-01106-thumbnail.jpg" alt="" width="480" height="640"></a>
-<figcaption>Turku 2016</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2016-05-01-13-09-01107.jpg" data-size="1500x2000"><img loading="lazy" src="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2016-05-01-13-09-01107-thumbnail.jpg" alt="" width="480" height="640"></a>
-<figcaption>Turku 2016</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2016-05-07-19-05-01114.jpg" data-size="2000x1125"><img loading="lazy" src="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2016-05-07-19-05-01114-thumbnail.jpg" alt="" width="480" height="270"></a>
-<figcaption>Turku 2016</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2016-05-22-16-00-01116.jpg" data-size="2000x1500"><img loading="lazy" src="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2016-05-22-16-00-01116-thumbnail.jpg" alt="" width="480" height="360"></a>
-<figcaption>Turku 2016</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2016-07-10-17-16-01119.jpg" data-size="2000x1125"><img loading="lazy" src="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2016-07-10-17-16-01119-thumbnail.jpg" alt="" width="480" height="270"></a>
-<figcaption>Turku 2016</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2016-07-17-13-54-01122.jpg" data-size="2000x1500"><img loading="lazy" src="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2016-07-17-13-54-01122-thumbnail.jpg" alt="" width="480" height="360"></a>
 <figcaption>Turku 2016</figcaption>
 </figure>
 <figure class="gallery__item"><a href="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2016-08-20-13-24-01130.jpg" data-size="2000x1500"><img loading="lazy" src="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2016-08-20-13-24-01130-thumbnail.jpg" alt="" width="480" height="360"></a>
 <figcaption>Turku 2016</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2016-08-20-13-31-01134.jpg" data-size="2000x1500"><img loading="lazy" src="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2016-08-20-13-31-01134-thumbnail.jpg" alt="" width="480" height="360"></a>
-<figcaption>Turku 2016</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2016-08-20-13-33-01136.jpg" data-size="2000x1500"><img loading="lazy" src="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2016-08-20-13-33-01136-thumbnail.jpg" alt="" width="480" height="360"></a>
-<figcaption>Turku 2016</figcaption>
-</figure>
 <figure class="gallery__item"><a href="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2016-08-20-13-43-01142.jpg" data-size="2000x1500"><img loading="lazy" src="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2016-08-20-13-43-01142-thumbnail.jpg" alt="" width="480" height="360"></a>
 <figcaption>Turku 2016</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2017-01-31-19-15-01081.jpg" data-size="2000x1125"><img loading="lazy" src="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2017-01-31-19-15-01081-thumbnail.jpg" alt="" width="480" height="270"></a>
-<figcaption>Helsinki 2017</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2017-03-03-11-18-01197.jpg" data-size="2000x1500"><img loading="lazy" src="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2017-03-03-11-18-01197-thumbnail.jpg" alt="" width="480" height="360"></a>
-<figcaption>Paris 2017</figcaption>
-</figure>
 <figure class="gallery__item"><a href="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2017-03-19-12-42-01182.jpg" data-size="1500x2000"><img loading="lazy" src="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2017-03-19-12-42-01182-thumbnail.jpg" alt="" width="480" height="640"></a>
 <figcaption>Hyderabad 2017</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2017-03-20-15-10-01181.jpg" data-size="1500x2000"><img loading="lazy" src="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2017-03-20-15-10-01181-thumbnail.jpg" alt="" width="480" height="640"></a>
-<figcaption>Hyderabad 2017</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2017-03-20-16-07-01059.jpg" data-size="2000x1500"><img loading="lazy" src="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2017-03-20-16-07-01059-thumbnail.jpg" alt="" width="480" height="360"></a>
-<figcaption>Hyderabad 2017</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2017-05-09-10-16-01162.jpg" data-size="1500x2000"><img loading="lazy" src="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2017-05-09-10-16-01162-thumbnail.jpg" alt="" width="480" height="640"></a>
-<figcaption>Paris 2017</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2017-05-09-12-02-01025.jpg" data-size="1500x2000"><img loading="lazy" src="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2017-05-09-12-02-01025-thumbnail.jpg" alt="" width="480" height="640"></a>
-<figcaption>Paris 2017</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2017-05-09-13-06-01070.jpg" data-size="1500x2000"><img loading="lazy" src="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2017-05-09-13-06-01070-thumbnail.jpg" alt="" width="480" height="640"></a>
-<figcaption>Paris 2017</figcaption>
 </figure>
 <figure class="gallery__item"><a href="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2021-11-07-17-49-00622.jpg" data-size="2000x1125"><img loading="lazy" src="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2021-11-07-17-49-00622-thumbnail.jpg" alt="" width="480" height="270"></a>
 <figcaption>Turku 2021</figcaption>
@@ -459,35 +382,17 @@
 <figure class="gallery__item"><a href="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2021-11-07-17-50-00650.jpg" data-size="2000x1334"><img loading="lazy" src="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2021-11-07-17-50-00650-thumbnail.jpg" alt="" width="480" height="320"></a>
 <figcaption>Turku 2021</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2021-11-07-17-50-00655.jpg" data-size="2000x1125"><img loading="lazy" src="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2021-11-07-17-50-00655-thumbnail.jpg" alt="" width="480" height="270"></a>
-<figcaption>Turku 2021</figcaption>
-</figure>
 <figure class="gallery__item"><a href="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2021-11-07-17-51-00693.jpg" data-size="2000x1125"><img loading="lazy" src="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2021-11-07-17-51-00693-thumbnail.jpg" alt="" width="480" height="270"></a>
-<figcaption>Turku 2021</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2021-11-07-17-51-00695.jpg" data-size="2000x1125"><img loading="lazy" src="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2021-11-07-17-51-00695-thumbnail.jpg" alt="" width="480" height="270"></a>
 <figcaption>Turku 2021</figcaption>
 </figure>
 <figure class="gallery__item"><a href="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2021-11-07-17-51-00750.jpg" data-size="2000x1500"><img loading="lazy" src="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2021-11-07-17-51-00750-thumbnail.jpg" alt="" width="480" height="360"></a>
 <figcaption>Turku 2021</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2021-11-07-17-51-00771.jpg" data-size="2000x1125"><img loading="lazy" src="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2021-11-07-17-51-00771-thumbnail.jpg" alt="" width="480" height="270"></a>
-<figcaption>Helsinki 2021</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2021-11-07-17-51-00774.jpg" data-size="2000x1500"><img loading="lazy" src="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2021-11-07-17-51-00774-thumbnail.jpg" alt="" width="480" height="360"></a>
-<figcaption>Helsinki 2021</figcaption>
-</figure>
 <figure class="gallery__item"><a href="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2021-11-07-17-51-00775.jpg" data-size="2000x1500"><img loading="lazy" src="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2021-11-07-17-51-00775-thumbnail.jpg" alt="" width="480" height="360"></a>
-<figcaption>Helsinki 2021</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2021-11-07-17-51-00776.jpg" data-size="2000x1125"><img loading="lazy" src="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2021-11-07-17-51-00776-thumbnail.jpg" alt="" width="480" height="270"></a>
 <figcaption>Helsinki 2021</figcaption>
 </figure>
 <figure class="gallery__item"><a href="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2021-11-07-17-51-00780.jpg" data-size="2000x1500"><img loading="lazy" src="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2021-11-07-17-51-00780-thumbnail.jpg" alt="" width="480" height="360"></a>
 <figcaption>Helsinki 2021</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2021-11-07-17-51-00784.jpg" data-size="2000x1125"><img loading="lazy" src="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2021-11-07-17-51-00784-thumbnail.jpg" alt="" width="480" height="270"></a>
-<figcaption>Tokyo 2019</figcaption>
 </figure>
 <figure class="gallery__item"><a href="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2021-11-07-17-51-00797.jpg" data-size="1500x2000"><img loading="lazy" src="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2021-11-07-17-51-00797-thumbnail.jpg" alt="" width="480" height="640"></a>
 <figcaption>Tokyo 2019</figcaption>
@@ -498,44 +403,14 @@
 <figure class="gallery__item"><a href="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2021-11-07-17-51-00809.jpg" data-size="1501x2000"><img loading="lazy" src="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2021-11-07-17-51-00809-thumbnail.jpg" alt="" width="480" height="640"></a>
 <figcaption>Tokyo 2019</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2021-11-07-17-51-00810.jpg" data-size="2000x1125"><img loading="lazy" src="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2021-11-07-17-51-00810-thumbnail.jpg" alt="" width="480" height="270"></a>
-<figcaption>Tokyo 2019</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2021-11-07-17-51-00818.jpg" data-size="2000x1500"><img loading="lazy" src="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2021-11-07-17-51-00818-thumbnail.jpg" alt="" width="480" height="360"></a>
-<figcaption>Helsinki 2021</figcaption>
-</figure>
 <figure class="gallery__item"><a href="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2021-11-07-17-51-00837.jpg" data-size="2000x1500"><img loading="lazy" src="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2021-11-07-17-51-00837-thumbnail.jpg" alt="" width="480" height="360"></a>
 <figcaption>Turku 2021</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2021-11-07-17-51-00867.jpg" data-size="1500x2000"><img loading="lazy" src="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2021-11-07-17-51-00867-thumbnail.jpg" alt="" width="480" height="640"></a>
-<figcaption>Guangzhou 2018</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2021-11-07-17-51-00869.jpg" data-size="1500x2000"><img loading="lazy" src="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2021-11-07-17-51-00869-thumbnail.jpg" alt="" width="480" height="640"></a>
-<figcaption>Guangzhou 2018</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2021-11-07-17-51-00872.jpg" data-size="2000x1500"><img loading="lazy" src="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2021-11-07-17-51-00872-thumbnail.jpg" alt="" width="480" height="360"></a>
-<figcaption>Guangzhou 2018</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2021-11-07-17-51-00875.jpg" data-size="2000x1500"><img loading="lazy" src="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2021-11-07-17-51-00875-thumbnail.jpg" alt="" width="480" height="360"></a>
-<figcaption>Guangzhou 2018</figcaption>
 </figure>
 <figure class="gallery__item"><a href="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2021-11-07-17-51-00876.jpg" data-size="2000x1500"><img loading="lazy" src="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2021-11-07-17-51-00876-thumbnail.jpg" alt="" width="480" height="360"></a>
 <figcaption>Guangzhou 2018</figcaption>
 </figure>
 <figure class="gallery__item"><a href="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2021-11-07-17-51-00879.jpg" data-size="2000x1500"><img loading="lazy" src="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2021-11-07-17-51-00879-thumbnail.jpg" alt="" width="480" height="360"></a>
 <figcaption>Guangzhou 2018</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2021-11-07-17-51-00881.jpg" data-size="2000x1500"><img loading="lazy" src="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2021-11-07-17-51-00881-thumbnail.jpg" alt="" width="480" height="360"></a>
-<figcaption>Guangzhou 2018</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2021-11-20-17-36-00914.jpg" data-size="2000x1125"><img loading="lazy" src="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2021-11-20-17-36-00914-thumbnail.jpg" alt="" width="480" height="270"></a>
-<figcaption>Turku 2021</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2021-11-20-18-20-00921.jpg" data-size="1497x2000"><img loading="lazy" src="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2021-11-20-18-20-00921-thumbnail.jpg" alt="" width="480" height="641"></a>
-<figcaption>Turku 2021</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2022-03-04-20-50-01016.jpg" data-size="2000x1125"><img loading="lazy" src="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2022-03-04-20-50-01016-thumbnail.jpg" alt="" width="480" height="270"></a>
-<figcaption>Turku 2022</figcaption>
 </figure>
 <figure class="gallery__item"><a href="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2022-03-04-21-12-01017.jpg" data-size="2000x1125"><img loading="lazy" src="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2022-03-04-21-12-01017-thumbnail.jpg" alt="" width="480" height="270"></a>
 <figcaption>Turku 2022</figcaption>
@@ -558,16 +433,7 @@
 <figure class="gallery__item"><a href="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/20220415-121304-0056.jpg" data-size="1500x2000"><img loading="lazy" src="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/20220415-121304-0056-thumbnail.jpg" alt="" width="480" height="640"></a>
 <figcaption>Turku 2022</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/20220514-135945-0056.jpg" data-size="2000x1314"><img loading="lazy" src="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/20220514-135945-0056-thumbnail.jpg" alt="" width="480" height="315"></a>
-<figcaption>Turku 2022</figcaption>
-</figure>
 <figure class="gallery__item"><a href="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/20220514-140724-0060.jpg" data-size="2000x1334"><img loading="lazy" src="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/20220514-140724-0060-thumbnail.jpg" alt="" width="480" height="320"></a>
-<figcaption>Turku 2022</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/20220821-154119-00042.jpg" data-size="2000x1125"><img loading="lazy" src="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/20220821-154119-00042-thumbnail.jpg" alt="" width="480" height="270"></a>
-<figcaption>Turku 2022</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/20221001-12-44-52-0027200272.jpg" data-size="1334x2000"><img loading="lazy" src="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/20221001-12-44-52-0027200272-thumbnail.jpg" alt="" width="480" height="720"></a>
 <figcaption>Turku 2022</figcaption>
 </figure>
 <figure class="gallery__item"><a href="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/20230222-13-36-01-0007300073.jpg" data-size="2500x3124"><img loading="lazy" src="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/20230222-13-36-01-0007300073-thumbnail.jpg" alt="" width="480" height="600"></a>
@@ -586,9 +452,6 @@
 <figcaption>Turku 2023</figcaption>
 </figure>
 <figure class="gallery__item"><a href="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2023-11-25-00-27-37-0253.jpg" data-size="2500x1406"><img loading="lazy" src="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2023-11-25-00-27-37-0253-thumbnail.jpg" alt="" width="480" height="270"></a>
-<figcaption>Turku 2023</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2023-08-26-12-51-23-00135.jpg" data-size="2500x3750"><img loading="lazy" src="https://rampantpanda.github.io/RampantPanda/media/posts/3/gallery/2023-08-26-12-51-23-00135-thumbnail.jpg" alt="" width="480" height="720"></a>
 <figcaption>Turku 2023</figcaption>
 </figure>
 </div></div>
@@ -657,16 +520,19 @@
         </author>
         <link href="https://rampantpanda.github.io/RampantPanda/people-with-bikes.html"/>
         <id>https://rampantpanda.github.io/RampantPanda/people-with-bikes.html</id>
+        <media:content url="https://rampantpanda.github.io/RampantPanda/media/posts/1/20220827-123251-00077_resize.jpg" medium="image" />
             <category term="Other"/>
 
-        <updated>2024-02-18T11:01:54+02:00</updated>
+        <updated>2024-02-18T18:20:42+02:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://rampantpanda.github.io/RampantPanda/media/posts/1/20220827-123251-00077_resize.jpg" alt="" />
                     Turku 2021 Turku 2021 Turku 2021 Turku 2022 Hyderabad 2017 Helsinki 2017 Paris 2017 Turku 2017 Turku 2016 Turku 2016 Paris 2017 Copenhagen 2015 Tokyo&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://rampantpanda.github.io/RampantPanda/media/posts/1/20220827-123251-00077_resize.jpg" class="type:primaryImage" alt="" /></p>
                 
   <div  class="gallery-wrapper gallery-wrapper--full">
     <div class="gallery" data-columns="3">
